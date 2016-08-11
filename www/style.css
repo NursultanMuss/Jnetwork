@@ -1,0 +1,19 @@
+.mainWrap{
+    min-width: 1002px;
+    max-width:  1280px;
+    min-height: 100%;
+    overflow: hidden;
+    position: relative;
+    margin:0 auto;
+}
+.top{
+background: url("image/top.png") no-repeat center center;
+    height: 86px;
+    width: 100%;
+}
+.bestMedia{
+
+}
+.search{
+    display: inline-block;
+}

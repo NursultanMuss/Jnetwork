@@ -1,6 +1,6 @@
 .mainWrap{
-    min-width: 1002px;
-    max-width:  1280px;
+    /*min-width: 1002px;*/
+    max-width:  940px;
     min-height: 100%;
     overflow: hidden;
     position: relative;
@@ -17,3 +17,40 @@ background: url("image/top.png") no-repeat center center;
 .search{
     display: inline-block;
 }
+
+/*Main section*/
+.readMore img{
+    position: absolute;
+    top: 20px;
+}
+.readMore h3{
+    margin-left: 70px;
+}
+.row   {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
+
+/*Footer*/
+.footer li{
+    list-style-type: none;
+    margin-bottom: 12px;
+    border-bottom: 2px solid #446a86;
+}
+.contacts li{
+    margin-bottom: 5px;
+    border-bottom: 0px;
+}
+ul{
+    padding:0;
+}
+.latestNews a{
+    margin-left: 5px;
+}
+.footer{
+    background: linear-gradient(to bottom, #294261 0%, #2a4464 20%,#2e537b 100%);
+}
+
+
